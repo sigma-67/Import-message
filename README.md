@@ -1,8 +1,6 @@
 ﻿<!DOCTYPE HTML>
 <html>
 <body>
-<title>
-Message</title>
 
 <div>
 <h1> Sigma Message </h1>
